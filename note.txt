@@ -1,0 +1,66 @@
+<header id="zing-header" class="scrollfixed fixed">
+        <nav></nav>
+        <div class="home-wrapper">
+            <div class="nav-bar">
+                <a class="header-name" href="zing.vn"><img src="zing-logo.png" alt="Zing News - Thông tin uy tín, hình ảnh ấn tượng"></a>
+                <p><span>Tri thức trực tuyến</span></p>
+
+                <ul>
+                    <li class="parent xuat-ban">
+                        <a href="https://zingnews.vn/tin-tuc-xuat-ban.html" title="Tin tức xuất bản">Xuất bản</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent sach">
+                        <a href="https://zingnews.vn/sach-hay.html" title="Sách hay">Sách hay</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent tac-gia">
+                        <a href="https://zingnews.vn/tac-gia.html" title="Tác giả">Tác giả</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent xa-hoi">
+                        <a href="https://zingnews.vn/thoi-su.html" title="Xã hội">Xã hội</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent the-gioi">
+                        <a href="https://zingnews.vn/the-gioi.html" title="Thế giới">Thế giới</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent kinh-doanh">
+                        <a href="https://zingnews.vn/kinh-doanh-tai-chinh.html" title="Kinh doanh">Kinh doanh</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent cong-nghe">
+                        <a href="https://zingnews.vn/cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent the-thao">
+                        <a href="https://zingnews.vn/the-thao.html" title="Thể thao">Thể thao</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent giai-tri">
+                        <a href="https://zingnews.vn/giai-tri.html" title="Giải trí">Giải trí</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="parent doi-song">
+                        <a href="https://zingnews.vn/doi-song.html" title="Đời sống">Đời sống</a>
+                        <!-- ::after -->
+                    </li>
+                    <li class="more">
+                        <span class="dot dot1">
+                            <!-- ::after -->
+                            <!-- ::before -->
+                        </span>
+                        <span class="dot dot2"></span>
+                        <span class="dot dot3"></span>
+                    </li>
+                </ul>
+                <div class="toolbox">
+                <div class="searchform-wrap">
+                    <form name="search" id="searchbox" class="znewssearch" target=_blank>
+                        <input type="text" name="s" id="search_keyword" placeholder="Nhập nội dung cần tìm...">
+                        <button type="submit" id="search_button" aria-label="Tìm kiếm"></button>
+                    </form>
+                </div>
+                </div>
+            </div>
